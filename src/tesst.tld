@@ -1,0 +1,25 @@
+<Home>
+    <Header>
+        <Contact>
+            <Sdt>
+                083.888.0123 (HN) - 082.233.3555 (TP HCM)
+            </Sdt>
+        </Contact>
+        <Item>
+            <Images>https://i-vnexpress.vnecdn.net/2019/04/03/ma-1554253837-2726-1554253873_500x300.jpg</Images>
+            <Title>Những cơ hội của Việt Nam nếu trúng cử thành viên Hội đồng Bảo an</Title>
+            <Content>
+                <NoiDung>Việt Nam sẽ tăng cường vai trò của mình khi đảm nhận cùng lúc vị trí ở Hội đồng Bảo an và Chủ tịch ASEAN vào 2020.</NoiDung>
+                <Tag>
+                    <Title>Việt Nam là ứng viên duy nhất ở châu Á - Thái Bình Dương tại Hội đồng Bảo an</Title>
+                    <Link>https://vnexpress.net/the-gioi/viet-nam-la-ung-vien-duy-nhat-o-chau-a-thai-binh-duong-tai-hoi-dong-bao-an-3757304.html</Link>
+                </Tag>
+            </Content>
+        </Item>
+        <Banned>
+            <Image>
+                https://img.polyad.net/Default/20180717/300x120_02.gif
+            </Image>
+        </Banned>
+    </Header>
+</Home>
